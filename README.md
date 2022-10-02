@@ -14,7 +14,7 @@ how many points out of 20 do you deserve on this assignment:
 
 ## Self-Reflection:
 <!-- Write your self-reflection under this line -->
-I wasn't sure if it would work without the javascirpt being inside of a class
+I now understand the difference between local and session storage
 ### How long it took me to finish this?
 30 min
 
